@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>https://github.com/PengsongAndroid/pengsongandroid.github.com/2017/04/24/Dagger2%20%E4%BB%8E%E7%94%9F%E6%88%90%E7%9A%84%E4%BB%A3%E7%A0%81%E7%9C%8B%E5%8E%9F%E7%90%86/</loc>
+    <lastmod>2017-04-24T07:29:52.459Z</lastmod>
+    <data>
+        <display>
+        <title>Dagger2 从生成的代码看原理</title>
+        <pubTime>2017-04-23T23:33:44.000Z</pubTime>
+        
+        <tag>Android, 开源库, Dagger</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android日常问题" url="https://github.com/PengsongAndroid/pengsongandroid.github.com/categories/Android%E6%97%A5%E5%B8%B8%E9%97%AE%E9%A2%98/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>https://github.com/PengsongAndroid/pengsongandroid.github.com/2017/04/09/Android%E6%B3%A8%E8%A7%A3%E5%AE%9E%E8%B7%B5%E2%80%94%E2%80%94%E8%BF%90%E8%A1%8C%E6%97%B6%E6%B3%A8%E8%A7%A3%E6%A1%86%E6%9E%B6/</loc>
+    <lastmod>2017-04-13T10:00:03.850Z</lastmod>
+    <data>
+        <display>
+        <title>Android注解实践——运行时注解框架</title>
+        <pubTime>2017-04-09T10:45:13.000Z</pubTime>
+        
+        <tag>Android, Annotation, 注解, 运行时注解, EventBus</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android文章" url="https://github.com/PengsongAndroid/pengsongandroid.github.com/categories/Android%E6%96%87%E7%AB%A0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://github.com/PengsongAndroid/pengsongandroid.github.com/2017/04/08/Android%E6%B3%A8%E8%A7%A3%E5%AE%9E%E8%B7%B5%E2%80%94%E2%80%94%E6%89%93%E9%80%A0%E7%BC%96%E8%AF%91%E6%97%B6%E6%B3%A8%E8%A7%A3%E6%A1%86%E6%9E%B6/</loc>
+    <lastmod>2017-04-13T01:20:50.674Z</lastmod>
+    <data>
+        <display>
+        <title>Android注解实践——打造编译时注解框架</title>
+        <pubTime>2017-04-08T07:33:40.000Z</pubTime>
+        
+        <tag>Android, Annotation, 注解</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android文章" url="https://github.com/PengsongAndroid/pengsongandroid.github.com/categories/Android%E6%96%87%E7%AB%A0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://github.com/PengsongAndroid/pengsongandroid.github.com/2017/03/27/%E5%9D%91%E7%88%B9%E7%9A%84Android%206.0%20startDiscovery%E8%93%9D%E7%89%99%E6%90%9C%E7%B4%A2%E4%B8%8D%E5%88%B0%E8%AE%BE%E5%A4%87%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2017-03-27T08:55:23.248Z</lastmod>
+    <data>
+        <display>
+        <title>坑爹的Android 6.0 startDiscovery蓝牙搜索不到设备问题</title>
+        <pubTime>2017-03-27T12:50:44.000Z</pubTime>
+        
+        <tag>Android, Android权限机制</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android日常问题" url="https://github.com/PengsongAndroid/pengsongandroid.github.com/categories/Android%E6%97%A5%E5%B8%B8%E9%97%AE%E9%A2%98/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>https://github.com/PengsongAndroid/pengsongandroid.github.com/2017/03/15/Android%E5%9C%A8%E5%BA%94%E7%94%A8%E9%80%80%E5%87%BA%E5%90%8E%E5%8F%91%E9%80%81%E8%AF%B7%E6%B1%82%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc>
+    <lastmod>2017-03-16T06:20:37.248Z</lastmod>
+    <data>
+        <display>
+        <title>Android在应用退出后发送请求解决方案</title>
+        <pubTime>2017-03-15T09:07:44.000Z</pubTime>
+        
+        <tag>Android, 应用退出</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android文章" url="https://github.com/PengsongAndroid/pengsongandroid.github.com/categories/Android%E6%96%87%E7%AB%A0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://github.com/PengsongAndroid/pengsongandroid.github.com/2016/05/25/Android%20Studio%202.0%E5%BC%82%E5%B8%B8/</loc>
+    <lastmod>2017-03-16T06:15:59.224Z</lastmod>
+    <data>
+        <display>
+        <title>Android Studio 2.0异常</title>
+        <pubTime>2016-05-24T23:33:44.000Z</pubTime>
+        
+        <tag>Android studio, 环境问题</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android日常问题" url="https://github.com/PengsongAndroid/pengsongandroid.github.com/categories/Android%E6%97%A5%E5%B8%B8%E9%97%AE%E9%A2%98/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://github.com/PengsongAndroid/pengsongandroid.github.com/2016/05/27/Android%20Studio%20%E6%B7%BB%E5%8A%A0library%E6%B7%BB%E5%8A%A0.so%E6%96%87%E4%BB%B6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</loc>
+    <lastmod>2017-03-16T06:13:14.353Z</lastmod>
+    <data>
+        <display>
+        <title>Android Studio 添加library添加.so文件问题解决</title>
+        <pubTime>2016-05-26T23:33:44.000Z</pubTime>
+        
+        <tag>Android, .so, Android studio</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android日常问题" url="https://github.com/PengsongAndroid/pengsongandroid.github.com/categories/Android%E6%97%A5%E5%B8%B8%E9%97%AE%E9%A2%98/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+</urlset>
